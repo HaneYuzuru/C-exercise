@@ -1,11 +1,11 @@
 #include <iostream>
 #include <stdlib.h>
+#include "Chapter6.h"
 
 using std::cout;
 using std::cin;
 using std::endl;
 
-size_t callNumber(void);
 
 int main(int argc, char const *argv[])
 {
